@@ -1,6 +1,6 @@
 # Admin & Report Service
 
-Ce service Node.js/TypeScript gère l'administration globale de la plateforme bancaire et la génération des rapports consolidés, conformément aux spécifications du plan (Phase 2.21 - 2.24).
+Ce service Node.js/TypeScript gère l'administration globale de la plateforme bancaire et la génération des rapports consolidés
 
 ## Fonctionnalités Principales
 
