@@ -1,0 +1,9 @@
+services:
+  admin-report-service:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    ports:
+      - "8088:8088"
+    environment:
+      PORT: 8088
